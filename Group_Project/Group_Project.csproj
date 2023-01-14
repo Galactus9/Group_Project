@@ -21,4 +21,8 @@
     <PackageReference Include="Zoople.HTMLEditor" Version="2.6.2.315" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Image\" />
+  </ItemGroup>
+
 </Project>
